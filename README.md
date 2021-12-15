@@ -1,18 +1,9 @@
 # User-Stories
 
+- Registration type [ admin - chef- user ]
 
-- التسجيل
-نوع العضوية
-العضويات = نوعان
-1=شيف
-2= عضو
-admin
+- admin [ Delete post - delete video - delete user - delete comment ]
 
-- admin 
-حذف بوست - حذف فيديو - حذف يوزر - حذف كومنت
+- Chef [ Subscribe - add post - add video - add to favorite - add comment - delete post - delete video ]
 
-- شيف
-اشتراك - اضافة بوست - اضافة فيديو - اضافة الى المفضلة -اضافة كومنت - حذف بوست - حذف فيديو
-
-- عضو
-اشتراك - مفضلة - اضافة تعليق
+- user [ Subscribe - add to favorite - add comment ]
