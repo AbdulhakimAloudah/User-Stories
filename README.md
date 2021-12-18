@@ -4,7 +4,7 @@
 
 - admin [ Delete post - delete video - delete user - delete comment ]
 
-- Chef [ Subscribe - add post - add video - add to favorite - add comment - delete post - delete video ]
+- Chef [add post - add video - add comment - delete post - delete video ]
 
 ---
 
@@ -12,8 +12,8 @@
 - [Watch posts - Watch videos]
 - The user can Check the cooking posts and click on the post to start cooking.
 - user (logIn):
-- add to favorite - add comment 
-- He can write comments on videos
+- add to favorite
+- add comment 
 - Follow the chefs
 
 ---
@@ -26,4 +26,5 @@ Wireframes:
 
 ---
 ERD:
+
 ![ER Diagram](https://github.com/AbdulhakimAloudah/User-Stories/blob/main/img/Untitled%20Diagram.drawio%20(2).png)
